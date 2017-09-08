@@ -1,0 +1,2 @@
+# Coincheck
+check XRP rate
